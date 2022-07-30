@@ -3,7 +3,9 @@
 - I'm a Computer Engineering (Software Concentration) student at Toronto Metropolitan University (formerly Ryerson University) graduating in Fall of 2022.
 - You can find all of the apps I've tinkered with throughout my undergrad years, some from school projects, and a lot from Udemy courses.
 - I enjoy learning new languages and creating software applications. I use GitHub as my number one version control software, but also as a way to track my growth as a developer.
-- I wish you all goodluck and thanks for visiting my profile 😄 
+- I wish you all goodluck and thanks for visiting my profile 😄
+
+Note: I do not consent to, nor do I encourage, academic misconduct or plagiarism. The work I have decided to make public is for my own portfolio and not named directly after a course. Do not contact me, or ask me, for work from a course I may have taken. 
 
 <!--
 **Rugshan/rugshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
